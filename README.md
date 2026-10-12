@@ -110,10 +110,11 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Ideogram](https://ideogram.ai/) — AI image generation with strong text rendering capabilities.
 
 ### Voice & Audio AI
-- [ElevenLabs](https://elevenlabs.io/) — AI voice generation and cloning. Industry-leading quality.
-- [Play.ht](https://play.ht/) — AI text-to-speech with 900+ voices.
 - [Adobe Podcast](https://podcast.adobe.com/) — AI-powered audio enhancement. Removes background noise.
 - [Descript](https://www.descript.com/) — AI audio editing, filler word removal, and voice cloning.
+- [ElevenLabs](https://elevenlabs.io/) — AI voice generation and cloning. Industry-leading quality.
+- [Play.ht](https://play.ht/) — AI text-to-speech with 900+ voices.
+- [QuietTake Noise Remover](https://noiseremover.site/) — Browser-local RNNoise speech denoising, playback comparison and WAV export; free, no account or audio upload; ≤50MB and ≤5min.
 
 ### AI Prompt Libraries
 - [PromptBase](https://promptbase.com/) — Marketplace for buying and selling AI prompts.
